@@ -5,7 +5,5 @@ Children:
   Type: BaseDataVariableType
   DataType: Int32
   Value: 0
-- Name: Variable2
-  Type: BaseDataVariableType
-  DataType: Int32
-  Value: 0
+- Name: Object1
+  Type: BaseObjectType
